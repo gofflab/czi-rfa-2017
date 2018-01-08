@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g>
+	<rect x="50" y="70" fill="#D9D9D9" width="371" height="17"/>
+	<rect x="50" y="102" fill="#D9D9D9" width="371" height="17"/>
+	<rect x="50" y="134" fill="#D9D9D9" width="371" height="17"/>
+	<rect x="50" y="166" fill="#D9D9D9" width="371" height="17"/>
+	<rect x="50" y="198" fill="#D9D9D9" width="371" height="17"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="51" y="55" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<text transform="matrix(1 0 0 1 53 67)" font-family="'Helvetica-Bold'" font-size="12">Age</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_3_" x="51" y="55" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_4_)">
+		<text transform="matrix(1 0 0 1 95 67)" font-family="'Helvetica-Bold'" font-size="12">Whole Retina</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_5_" x="51" y="55" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_6_)">
+		<text transform="matrix(1 0 0 1 185 67)" font-family="'Helvetica-Bold'" font-size="12">Chx10-GFP+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_7_" x="51" y="55" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_8_">
+		<use xlink:href="#SVGID_7_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_8_)">
+		<text transform="matrix(1 0 0 1 267 67)" font-family="'Helvetica-Bold'" font-size="12">Chx10-GFP-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_9_" x="51" y="55" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_10_">
+		<use xlink:href="#SVGID_9_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_10_)">
+		<text transform="matrix(1 0 0 1 347 67)" font-family="'Helvetica-Bold'" font-size="12">Num. Cells</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_11_" x="51" y="71" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_12_">
+		<use xlink:href="#SVGID_11_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_12_)">
+		<text transform="matrix(1 0 0 1 53 83)" font-family="'Helvetica'" font-size="12">E11</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_13_" x="51" y="71" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_14_">
+		<use xlink:href="#SVGID_13_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_14_)">
+		<text transform="matrix(1 0 0 1 134 83)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_15_" x="51" y="71" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_16_">
+		<use xlink:href="#SVGID_15_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_16_)">
+		<text transform="matrix(1 0 0 1 222 83)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_17_" x="51" y="71" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_18_">
+		<use xlink:href="#SVGID_17_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_18_)">
+		<text transform="matrix(1 0 0 1 303 83)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_19_" x="51" y="71" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_20_">
+		<use xlink:href="#SVGID_19_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_20_)">
+		<text transform="matrix(1 0 0 1 391 83)" font-family="'Helvetica'" font-size="12">9366</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_21_" x="51" y="87" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_22_">
+		<use xlink:href="#SVGID_21_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_22_)">
+		<text transform="matrix(1 0 0 1 53 99)" font-family="'Helvetica'" font-size="12">E12</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_23_" x="51" y="87" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_24_">
+		<use xlink:href="#SVGID_23_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_24_)">
+		<text transform="matrix(1 0 0 1 134 99)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_25_" x="51" y="87" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_26_">
+		<use xlink:href="#SVGID_25_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_26_)">
+		<text transform="matrix(1 0 0 1 222 99)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_27_" x="51" y="87" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_28_">
+		<use xlink:href="#SVGID_27_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_28_)">
+		<text transform="matrix(1 0 0 1 303 99)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_29_" x="51" y="87" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_30_">
+		<use xlink:href="#SVGID_29_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_30_)">
+		<text transform="matrix(1 0 0 1 391 99)" font-family="'Helvetica'" font-size="12">1640</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_31_" x="51" y="103" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_32_">
+		<use xlink:href="#SVGID_31_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_32_)">
+		<text transform="matrix(1 0 0 1 53 115)" font-family="'Helvetica'" font-size="12">E14</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_33_" x="51" y="103" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_34_">
+		<use xlink:href="#SVGID_33_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_34_)">
+		<text transform="matrix(1 0 0 1 134 115)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_35_" x="51" y="103" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_36_">
+		<use xlink:href="#SVGID_35_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_36_)">
+		<text transform="matrix(1 0 0 1 220 115)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_37_" x="51" y="103" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_38_">
+		<use xlink:href="#SVGID_37_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_38_)">
+		<text transform="matrix(1 0 0 1 301 115)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_39_" x="51" y="103" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_40_">
+		<use xlink:href="#SVGID_39_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_40_)">
+		<text transform="matrix(1 0 0 1 385 115)" font-family="'Helvetica'" font-size="12">16154</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_41_" x="51" y="119" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_42_">
+		<use xlink:href="#SVGID_41_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_42_)">
+		<text transform="matrix(1 0 0 1 53 131)" font-family="'Helvetica'" font-size="12">E16</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_43_" x="51" y="119" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_44_">
+		<use xlink:href="#SVGID_43_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_44_)">
+		<text transform="matrix(1 0 0 1 134 131)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_45_" x="51" y="119" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_46_">
+		<use xlink:href="#SVGID_45_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_46_)">
+		<text transform="matrix(1 0 0 1 222 131)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_47_" x="51" y="119" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_48_">
+		<use xlink:href="#SVGID_47_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_48_)">
+		<text transform="matrix(1 0 0 1 303 131)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_49_" x="51" y="119" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_50_">
+		<use xlink:href="#SVGID_49_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_50_)">
+		<text transform="matrix(1 0 0 1 392 131)" font-family="'Helvetica'" font-size="12">5401</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_51_" x="51" y="135" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_52_">
+		<use xlink:href="#SVGID_51_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_52_)">
+		<text transform="matrix(1 0 0 1 53 147)" font-family="'Helvetica'" font-size="12">E18</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_53_" x="51" y="135" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_54_">
+		<use xlink:href="#SVGID_53_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_54_)">
+		<text transform="matrix(1 0 0 1 134 147)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_55_" x="51" y="135" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_56_">
+		<use xlink:href="#SVGID_55_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_56_)">
+		<text transform="matrix(1 0 0 1 220 147)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_57_" x="51" y="135" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_58_">
+		<use xlink:href="#SVGID_57_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_58_)">
+		<text transform="matrix(1 0 0 1 301 147)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_59_" x="51" y="135" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_60_">
+		<use xlink:href="#SVGID_59_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_60_)">
+		<text transform="matrix(1 0 0 1 385 147)" font-family="'Helvetica'" font-size="12">10860</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_61_" x="51" y="151" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_62_">
+		<use xlink:href="#SVGID_61_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_62_)">
+		<text transform="matrix(1 0 0 1 53 163)" font-family="'Helvetica'" font-size="12">P0</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_63_" x="51" y="151" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_64_">
+		<use xlink:href="#SVGID_63_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_64_)">
+		<text transform="matrix(1 0 0 1 134 163)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_65_" x="51" y="151" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_66_">
+		<use xlink:href="#SVGID_65_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_66_)">
+		<text transform="matrix(1 0 0 1 222 163)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_67_" x="51" y="151" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_68_">
+		<use xlink:href="#SVGID_67_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_68_)">
+		<text transform="matrix(1 0 0 1 303 163)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_69_" x="51" y="151" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_70_">
+		<use xlink:href="#SVGID_69_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_70_)">
+		<text transform="matrix(1 0 0 1 392 163)" font-family="'Helvetica'" font-size="12">9926</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_71_" x="51" y="167" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_72_">
+		<use xlink:href="#SVGID_71_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_72_)">
+		<text transform="matrix(1 0 0 1 53 179)" font-family="'Helvetica'" font-size="12">P2</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_73_" x="51" y="167" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_74_">
+		<use xlink:href="#SVGID_73_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_74_)">
+		<text transform="matrix(1 0 0 1 134 179)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_75_" x="51" y="167" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_76_">
+		<use xlink:href="#SVGID_75_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_76_)">
+		<text transform="matrix(1 0 0 1 220 179)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_77_" x="51" y="167" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_78_">
+		<use xlink:href="#SVGID_77_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_78_)">
+		<text transform="matrix(1 0 0 1 301 179)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_79_" x="51" y="167" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_80_">
+		<use xlink:href="#SVGID_79_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_80_)">
+		<text transform="matrix(1 0 0 1 385 179)" font-family="'Helvetica'" font-size="12">24083</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_81_" x="51" y="183" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_82_">
+		<use xlink:href="#SVGID_81_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_82_)">
+		<text transform="matrix(1 0 0 1 53 195)" font-family="'Helvetica'" font-size="12">P5</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_83_" x="51" y="183" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_84_">
+		<use xlink:href="#SVGID_83_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_84_)">
+		<text transform="matrix(1 0 0 1 134 195)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_85_" x="51" y="183" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_86_">
+		<use xlink:href="#SVGID_85_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_86_)">
+		<text transform="matrix(1 0 0 1 222 195)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_87_" x="51" y="183" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_88_">
+		<use xlink:href="#SVGID_87_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_88_)">
+		<text transform="matrix(1 0 0 1 303 195)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_89_" x="51" y="183" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_90_">
+		<use xlink:href="#SVGID_89_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_90_)">
+		<text transform="matrix(1 0 0 1 391 195)" font-family="'Helvetica'" font-size="12">6756</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_91_" x="51" y="199" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_92_">
+		<use xlink:href="#SVGID_91_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_92_)">
+		<text transform="matrix(1 0 0 1 53 211)" font-family="'Helvetica'" font-size="12">P8</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_93_" x="51" y="199" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_94_">
+		<use xlink:href="#SVGID_93_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_94_)">
+		<text transform="matrix(1 0 0 1 134 211)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_95_" x="51" y="199" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_96_">
+		<use xlink:href="#SVGID_95_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_96_)">
+		<text transform="matrix(1 0 0 1 222 211)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_97_" x="51" y="199" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_98_">
+		<use xlink:href="#SVGID_97_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_98_)">
+		<text transform="matrix(1 0 0 1 303 211)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_99_" x="51" y="199" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_100_">
+		<use xlink:href="#SVGID_99_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_100_)">
+		<text transform="matrix(1 0 0 1 392 211)" font-family="'Helvetica'" font-size="12">8254</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_101_" x="51" y="215" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_102_">
+		<use xlink:href="#SVGID_101_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_102_)">
+		<text transform="matrix(1 0 0 1 53 227)" font-family="'Helvetica'" font-size="12">P14</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_103_" x="51" y="215" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_104_">
+		<use xlink:href="#SVGID_103_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_104_)">
+		<text transform="matrix(1 0 0 1 134 227)" font-family="'Helvetica'" font-size="12">+</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_105_" x="51" y="215" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_106_">
+		<use xlink:href="#SVGID_105_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_106_)">
+		<text transform="matrix(1 0 0 1 222 227)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_107_" x="51" y="215" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_108_">
+		<use xlink:href="#SVGID_107_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_108_)">
+		<text transform="matrix(1 0 0 1 303 227)" font-family="'Helvetica'" font-size="12">-</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_109_" x="51" y="215" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_110_">
+		<use xlink:href="#SVGID_109_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_110_)">
+		<text transform="matrix(1 0 0 1 392 227)" font-family="'Helvetica'" font-size="12">8103</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_111_" x="51" y="231" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_112_">
+		<use xlink:href="#SVGID_111_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_112_)">
+		<text transform="matrix(1 0 0 1 267 243)" font-family="'Helvetica-BoldOblique'" font-size="12">Total</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_113_" x="51" y="231" width="371" height="17"/>
+	</defs>
+	<clipPath id="SVGID_114_">
+		<use xlink:href="#SVGID_113_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_114_)">
+		<text transform="matrix(1 0 0 1 377 243)" font-family="'Helvetica-BoldOblique'" font-size="12">100543</text>
+	</g>
+</g>
+<g>
+	<rect x="50" y="54" width="371" height="1"/>
+	<rect x="50" y="70" width="371" height="1"/>
+	<rect x="50" y="230" width="371" height="1"/>
+</g>
+<rect x="51" y="253" fill="none" width="371" height="71"/>
+<text transform="matrix(1 0 0 1 51 260.1597)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="10">Table 1: Summary table of preliminary developing mouse retina gene expression </tspan><tspan x="0" y="12" font-family="'ArialMT'" font-size="10">data using three distinct RNA-Seq library preparations (bulk, Smart-Seq2, and 10x </tspan><tspan x="0" y="24" font-family="'ArialMT'" font-size="10">genomics).  These data will be used to derive basis vectors corresponding to </tspan><tspan x="0" y="36" font-family="'ArialMT'" font-size="10">CoGAPS modules of gene co-regulation over retinal development.  We will bench</tspan><tspan x="360.19" y="36" font-family="'ArialMT'" font-size="10">-</tspan><tspan x="0" y="48" font-family="'ArialMT'" font-size="10">mark the quality of patterns learned from single cell data through comparison to </tspan><tspan x="0" y="60" font-family="'ArialMT'" font-size="10">those learned in bulk.</tspan></text>
+</svg>
