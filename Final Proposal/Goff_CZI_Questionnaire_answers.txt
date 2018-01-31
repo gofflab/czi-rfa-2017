@@ -1,0 +1,124 @@
+CCQ
+====
+
+Q1009: No
+
+Q1047: No
+
+Q1010: No
+
+Q1011: No
+
+Q1012: No
+
+Q1013: No
+
+Q1031: N/A
+
+Q1044: N/A
+
+Q1014: No
+
+Q1032: N/A
+
+Q1042: N/A
+
+Q1016: No
+
+Q1034: N/A
+
+Q1026: No
+
+Q1049: N/A
+
+Q1045: N/A
+
+Q1018: No
+
+Q1035: N/A
+
+Q1083: XXXXXXXXXX
+
+Q1084: XXXXXXXXXX
+
+Q1085: XXXXXXXXXX
+
+Q1086: XXXXXXXXXX
+
+
+MCQ
+====
+
+Q1005: Yes.  De-identified human tissue.
+
+Q1006: No
+
+Q1007: No
+
+Q1054: N/A
+
+Q1008: Yes
+
+Q1015: Yes
+
+Q1033: 15% F&A as per the maximum allowed by the funding agency
+
+Q1027: Yes
+
+Q1017: No
+
+Q1019: No
+
+Q1036: N/A
+
+Q1020: No
+
+Q1037: N/A
+
+Q1038: N/A
+
+Q1066: No
+
+Q1089: No
+
+Q1092: No
+
+Q1093: N/A
+
+Q1094: N/A
+
+Q1095: No
+
+Q1096: N/A
+
+
+MIQ
+=====
+
+Q1055: No
+
+Q1056: No
+
+Q1057: N/A
+
+Q1058: N/A
+
+Q1070: No
+
+Q1071: N/A
+
+Q1060: No
+
+Q1061: No
+
+Q1062: N/A
+
+Q1090: No
+
+Q1064: No
+
+Q1065: N/A
+
+Q1067: N/A
+
+
